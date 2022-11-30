@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\14012022\14012022\bin\Debug\14012022.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\14012022\14012022\bin\Debug\14012022.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\14012022\14012022\bin\Debug\14012022.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\14012022\14012022\obj\Debug\14012022.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\14012022\14012022\obj\Debug\14012022.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\14012022\14012022\obj\Debug\14012022.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\14012022\14012022\obj\Debug\14012022.pdb

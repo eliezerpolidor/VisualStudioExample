@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodoPaseParametros\EjemploMetodoPaseParametros\bin\Debug\EjemploMetodoPaseParametros.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodoPaseParametros\EjemploMetodoPaseParametros\bin\Debug\EjemploMetodoPaseParametros.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodoPaseParametros\EjemploMetodoPaseParametros\bin\Debug\EjemploMetodoPaseParametros.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodoPaseParametros\EjemploMetodoPaseParametros\obj\Debug\EjemploMetodoPaseParametros.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodoPaseParametros\EjemploMetodoPaseParametros\obj\Debug\EjemploMetodoPaseParametros.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodoPaseParametros\EjemploMetodoPaseParametros\obj\Debug\EjemploMetodoPaseParametros.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodoPaseParametros\EjemploMetodoPaseParametros\obj\Debug\EjemploMetodoPaseParametros.pdb

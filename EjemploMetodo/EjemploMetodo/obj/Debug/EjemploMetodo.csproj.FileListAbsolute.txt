@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodo\EjemploMetodo\bin\Debug\EjemploMetodo.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodo\EjemploMetodo\bin\Debug\EjemploMetodo.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodo\EjemploMetodo\bin\Debug\EjemploMetodo.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodo\EjemploMetodo\obj\Debug\EjemploMetodo.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodo\EjemploMetodo\obj\Debug\EjemploMetodo.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodo\EjemploMetodo\obj\Debug\EjemploMetodo.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploMetodo\EjemploMetodo\obj\Debug\EjemploMetodo.pdb

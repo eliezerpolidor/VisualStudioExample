@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstantes\EjemploConstantes\bin\Debug\EjemploConstantes.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstantes\EjemploConstantes\bin\Debug\EjemploConstantes.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstantes\EjemploConstantes\bin\Debug\EjemploConstantes.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstantes\EjemploConstantes\obj\Debug\EjemploConstantes.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstantes\EjemploConstantes\obj\Debug\EjemploConstantes.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstantes\EjemploConstantes\obj\Debug\EjemploConstantes.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstantes\EjemploConstantes\obj\Debug\EjemploConstantes.pdb

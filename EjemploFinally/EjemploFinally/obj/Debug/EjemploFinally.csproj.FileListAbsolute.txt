@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploFinally\EjemploFinally\bin\Debug\EjemploFinally.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploFinally\EjemploFinally\bin\Debug\EjemploFinally.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploFinally\EjemploFinally\bin\Debug\EjemploFinally.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploFinally\EjemploFinally\obj\Debug\EjemploFinally.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploFinally\EjemploFinally\obj\Debug\EjemploFinally.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploFinally\EjemploFinally\obj\Debug\EjemploFinally.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploFinally\EjemploFinally\obj\Debug\EjemploFinally.pdb

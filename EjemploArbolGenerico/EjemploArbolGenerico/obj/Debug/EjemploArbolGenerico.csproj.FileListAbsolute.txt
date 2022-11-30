@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolGenerico\EjemploArbolGenerico\obj\Debug\EjemploArbolGenerico.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolGenerico\EjemploArbolGenerico\obj\Debug\EjemploArbolGenerico.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolGenerico\EjemploArbolGenerico\bin\Debug\EjemploArbolGenerico.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolGenerico\EjemploArbolGenerico\bin\Debug\EjemploArbolGenerico.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolGenerico\EjemploArbolGenerico\bin\Debug\EjemploArbolGenerico.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolGenerico\EjemploArbolGenerico\obj\Debug\EjemploArbolGenerico.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolGenerico\EjemploArbolGenerico\obj\Debug\EjemploArbolGenerico.pdb

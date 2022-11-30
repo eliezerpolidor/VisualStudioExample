@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploGrafo\EjemploGrafo\bin\Debug\EjemploGrafo.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploGrafo\EjemploGrafo\bin\Debug\EjemploGrafo.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploGrafo\EjemploGrafo\bin\Debug\EjemploGrafo.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploGrafo\EjemploGrafo\obj\Debug\EjemploGrafo.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploGrafo\EjemploGrafo\obj\Debug\EjemploGrafo.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploGrafo\EjemploGrafo\obj\Debug\EjemploGrafo.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploGrafo\EjemploGrafo\obj\Debug\EjemploGrafo.pdb

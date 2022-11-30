@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploVideo7ConvertirValoresString", "EjemploVideo7ConvertirValoresString\EjemploVideo7ConvertirValoresString.csproj", "{EAC59ED6-D1EB-4A2E-B96A-7D454380274F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC59ED6-D1EB-4A2E-B96A-7D454380274F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC59ED6-D1EB-4A2E-B96A-7D454380274F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC59ED6-D1EB-4A2E-B96A-7D454380274F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC59ED6-D1EB-4A2E-B96A-7D454380274F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BABB3C2E-6C8B-4E6F-A774-C59E276D5EA8}
+	EndGlobalSection
+EndGlobal

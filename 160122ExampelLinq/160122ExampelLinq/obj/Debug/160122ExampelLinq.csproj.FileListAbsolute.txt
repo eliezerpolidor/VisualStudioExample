@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\160122ExampelLinq\160122ExampelLinq\bin\Debug\160122ExampelLinq.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\160122ExampelLinq\160122ExampelLinq\bin\Debug\160122ExampelLinq.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\160122ExampelLinq\160122ExampelLinq\bin\Debug\160122ExampelLinq.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\160122ExampelLinq\160122ExampelLinq\obj\Debug\160122ExampelLinq.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\160122ExampelLinq\160122ExampelLinq\obj\Debug\160122ExampelLinq.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\160122ExampelLinq\160122ExampelLinq\obj\Debug\160122ExampelLinq.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\160122ExampelLinq\160122ExampelLinq\obj\Debug\160122ExampelLinq.pdb

@@ -1,0 +1,12 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntityFramework\EjemploEntityFrameWork\EjemploEntityFrameWork\bin\Debug\EjemploEntityFrameWork.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntityFramework\EjemploEntityFrameWork\EjemploEntityFrameWork\bin\Debug\EjemploEntityFrameWork.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntityFramework\EjemploEntityFrameWork\EjemploEntityFrameWork\bin\Debug\EjemploEntityFrameWork.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntityFramework\EjemploEntityFrameWork\EjemploEntityFrameWork\bin\Debug\EntityFramework.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntityFramework\EjemploEntityFrameWork\EjemploEntityFrameWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntityFramework\EjemploEntityFrameWork\EjemploEntityFrameWork\bin\Debug\EntityFramework.xml
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntityFramework\EjemploEntityFrameWork\EjemploEntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntityFramework\EjemploEntityFrameWork\EjemploEntityFrameWork\obj\Debug\EjemploEntityFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntityFramework\EjemploEntityFrameWork\EjemploEntityFrameWork\obj\Debug\EjemploEntityFrameWork.csproj.CopyComplete
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntityFramework\EjemploEntityFrameWork\EjemploEntityFrameWork\obj\Debug\EjemploEntityFrameWork.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntityFramework\EjemploEntityFrameWork\EjemploEntityFrameWork\obj\Debug\EjemploEntityFrameWork.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntityFramework\EjemploEntityFrameWork\EjemploEntityFrameWork\obj\Debug\EjemploEntityFrameWork.csproj.AssemblyReference.cache

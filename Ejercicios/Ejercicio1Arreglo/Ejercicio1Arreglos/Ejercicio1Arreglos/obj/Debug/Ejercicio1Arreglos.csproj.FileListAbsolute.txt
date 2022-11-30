@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1Arreglo\Ejercicio1Arreglos\Ejercicio1Arreglos\bin\Debug\Ejercicio1Arreglos.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1Arreglo\Ejercicio1Arreglos\Ejercicio1Arreglos\bin\Debug\Ejercicio1Arreglos.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1Arreglo\Ejercicio1Arreglos\Ejercicio1Arreglos\bin\Debug\Ejercicio1Arreglos.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1Arreglo\Ejercicio1Arreglos\Ejercicio1Arreglos\obj\Debug\Ejercicio1Arreglos.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1Arreglo\Ejercicio1Arreglos\Ejercicio1Arreglos\obj\Debug\Ejercicio1Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1Arreglo\Ejercicio1Arreglos\Ejercicio1Arreglos\obj\Debug\Ejercicio1Arreglos.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1Arreglo\Ejercicio1Arreglos\Ejercicio1Arreglos\obj\Debug\Ejercicio1Arreglos.pdb

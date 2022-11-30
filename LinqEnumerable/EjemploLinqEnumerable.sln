@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploLinqEnumerable", "EjemploLinqEnumerable\EjemploLinqEnumerable.csproj", "{BC4167A2-B2B5-4FA1-9432-2D62AD17E769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4167A2-B2B5-4FA1-9432-2D62AD17E769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4167A2-B2B5-4FA1-9432-2D62AD17E769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4167A2-B2B5-4FA1-9432-2D62AD17E769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4167A2-B2B5-4FA1-9432-2D62AD17E769}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30EB57BA-2459-46BE-9831-00C498881236}
+	EndGlobalSection
+EndGlobal

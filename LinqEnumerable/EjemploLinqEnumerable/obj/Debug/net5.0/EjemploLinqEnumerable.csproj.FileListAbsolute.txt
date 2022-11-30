@@ -1,0 +1,16 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\bin\Debug\net5.0\EjemploLinqEnumerable.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\bin\Debug\net5.0\EjemploLinqEnumerable.deps.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\bin\Debug\net5.0\EjemploLinqEnumerable.runtimeconfig.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\bin\Debug\net5.0\EjemploLinqEnumerable.runtimeconfig.dev.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\bin\Debug\net5.0\EjemploLinqEnumerable.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\bin\Debug\net5.0\ref\EjemploLinqEnumerable.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\bin\Debug\net5.0\EjemploLinqEnumerable.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\obj\Debug\net5.0\EjemploLinqEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\obj\Debug\net5.0\EjemploLinqEnumerable.AssemblyInfoInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\obj\Debug\net5.0\EjemploLinqEnumerable.AssemblyInfo.cs
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\obj\Debug\net5.0\EjemploLinqEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\obj\Debug\net5.0\EjemploLinqEnumerable.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\obj\Debug\net5.0\ref\EjemploLinqEnumerable.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\obj\Debug\net5.0\EjemploLinqEnumerable.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\obj\Debug\net5.0\EjemploLinqEnumerable.genruntimeconfig.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqEnumerable\EjemploLinqEnumerable\obj\Debug\net5.0\EjemploLinqEnumerable.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1If\Ejercicio1If\bin\Debug\Ejercicio1If.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1If\Ejercicio1If\bin\Debug\Ejercicio1If.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1If\Ejercicio1If\bin\Debug\Ejercicio1If.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1If\Ejercicio1If\obj\Debug\Ejercicio1If.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1If\Ejercicio1If\obj\Debug\Ejercicio1If.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1If\Ejercicio1If\obj\Debug\Ejercicio1If.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio1If\Ejercicio1If\obj\Debug\Ejercicio1If.pdb

@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicio1Arram\Ejercicio1Arram\bin\Debug\Ejercicio1Arram.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicio1Arram\Ejercicio1Arram\bin\Debug\Ejercicio1Arram.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicio1Arram\Ejercicio1Arram\bin\Debug\Ejercicio1Arram.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicio1Arram\Ejercicio1Arram\obj\Debug\Ejercicio1Arram.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicio1Arram\Ejercicio1Arram\obj\Debug\Ejercicio1Arram.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicio1Arram\Ejercicio1Arram\obj\Debug\Ejercicio1Arram.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicio1Arram\Ejercicio1Arram\obj\Debug\Ejercicio1Arram.pdb

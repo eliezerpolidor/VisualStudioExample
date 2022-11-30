@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolBinario\EjemploArbolBinario\bin\Debug\EjemploArbolBinario.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolBinario\EjemploArbolBinario\bin\Debug\EjemploArbolBinario.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolBinario\EjemploArbolBinario\bin\Debug\EjemploArbolBinario.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolBinario\EjemploArbolBinario\obj\Debug\EjemploArbolBinario.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolBinario\EjemploArbolBinario\obj\Debug\EjemploArbolBinario.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolBinario\EjemploArbolBinario\obj\Debug\EjemploArbolBinario.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArbolBinario\EjemploArbolBinario\obj\Debug\EjemploArbolBinario.csproj.AssemblyReference.cache

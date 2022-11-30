@@ -1,0 +1,12 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntiryMejorado\EjemploEntiryMejorado\bin\Debug\EjemploEntiryMejorado.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntiryMejorado\EjemploEntiryMejorado\bin\Debug\EjemploEntiryMejorado.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntiryMejorado\EjemploEntiryMejorado\bin\Debug\EjemploEntiryMejorado.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntiryMejorado\EjemploEntiryMejorado\bin\Debug\EntityFramework.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntiryMejorado\EjemploEntiryMejorado\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntiryMejorado\EjemploEntiryMejorado\bin\Debug\EntityFramework.xml
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntiryMejorado\EjemploEntiryMejorado\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntiryMejorado\EjemploEntiryMejorado\obj\Debug\EjemploEntiryMejorado.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntiryMejorado\EjemploEntiryMejorado\obj\Debug\EjemploEntiryMejorado.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntiryMejorado\EjemploEntiryMejorado\obj\Debug\EjemploEntiryMejorado.csproj.CopyComplete
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntiryMejorado\EjemploEntiryMejorado\obj\Debug\EjemploEntiryMejorado.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploEntiryMejorado\EjemploEntiryMejorado\obj\Debug\EjemploEntiryMejorado.pdb

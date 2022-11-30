@@ -1,0 +1,16 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\bin\Debug\net5.0\EjemploListaNUmerosMostrarPares.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\bin\Debug\net5.0\EjemploListaNUmerosMostrarPares.deps.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\bin\Debug\net5.0\EjemploListaNUmerosMostrarPares.runtimeconfig.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\bin\Debug\net5.0\EjemploListaNUmerosMostrarPares.runtimeconfig.dev.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\bin\Debug\net5.0\EjemploListaNUmerosMostrarPares.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\bin\Debug\net5.0\ref\EjemploListaNUmerosMostrarPares.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\bin\Debug\net5.0\EjemploListaNUmerosMostrarPares.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\obj\Debug\net5.0\EjemploListaNUmerosMostrarPares.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\obj\Debug\net5.0\EjemploListaNUmerosMostrarPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\obj\Debug\net5.0\EjemploListaNUmerosMostrarPares.AssemblyInfoInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\obj\Debug\net5.0\EjemploListaNUmerosMostrarPares.AssemblyInfo.cs
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\obj\Debug\net5.0\EjemploListaNUmerosMostrarPares.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\obj\Debug\net5.0\EjemploListaNUmerosMostrarPares.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\obj\Debug\net5.0\ref\EjemploListaNUmerosMostrarPares.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\obj\Debug\net5.0\EjemploListaNUmerosMostrarPares.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploListaNUmerosMostrarPares\EjemploListaNUmerosMostrarPares\obj\Debug\net5.0\EjemploListaNUmerosMostrarPares.genruntimeconfig.cache

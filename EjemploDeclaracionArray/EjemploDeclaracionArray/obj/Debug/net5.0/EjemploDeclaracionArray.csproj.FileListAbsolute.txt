@@ -1,0 +1,16 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\bin\Debug\net5.0\EjemploDeclaracionArray.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\bin\Debug\net5.0\EjemploDeclaracionArray.deps.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\bin\Debug\net5.0\EjemploDeclaracionArray.runtimeconfig.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\bin\Debug\net5.0\EjemploDeclaracionArray.runtimeconfig.dev.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\bin\Debug\net5.0\EjemploDeclaracionArray.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\bin\Debug\net5.0\ref\EjemploDeclaracionArray.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\bin\Debug\net5.0\EjemploDeclaracionArray.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\obj\Debug\net5.0\EjemploDeclaracionArray.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\obj\Debug\net5.0\EjemploDeclaracionArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\obj\Debug\net5.0\EjemploDeclaracionArray.AssemblyInfoInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\obj\Debug\net5.0\EjemploDeclaracionArray.AssemblyInfo.cs
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\obj\Debug\net5.0\EjemploDeclaracionArray.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\obj\Debug\net5.0\EjemploDeclaracionArray.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\obj\Debug\net5.0\ref\EjemploDeclaracionArray.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\obj\Debug\net5.0\EjemploDeclaracionArray.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploDeclaracionArray\EjemploDeclaracionArray\obj\Debug\net5.0\EjemploDeclaracionArray.genruntimeconfig.cache

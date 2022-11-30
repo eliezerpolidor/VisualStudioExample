@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EjemploEntityFrameworkModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="cSexo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Gente">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" />
+    <Property Name="edad" Type="int" />
+    <Property Name="idSexo" Type="int" />
+  </EntityType>
+  <Association Name="FK_Gente_cSexo">
+    <End Role="cSexo" Type="Self.cSexo" Multiplicity="0..1" />
+    <End Role="Gente" Type="Self.Gente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="cSexo">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Gente">
+        <PropertyRef Name="idSexo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EjemploEntityFrameworkModelStoreContainer">
+    <EntitySet Name="cSexo" EntityType="Self.cSexo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Gente" EntityType="Self.Gente" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Gente_cSexo" Association="Self.FK_Gente_cSexo">
+      <End Role="cSexo" EntitySet="cSexo" />
+      <End Role="Gente" EntitySet="Gente" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

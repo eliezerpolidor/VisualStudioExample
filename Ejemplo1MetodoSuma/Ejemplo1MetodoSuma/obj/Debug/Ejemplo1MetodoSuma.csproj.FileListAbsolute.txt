@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejemplo1MetodoSuma\Ejemplo1MetodoSuma\bin\Debug\Ejemplo1MetodoSuma.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejemplo1MetodoSuma\Ejemplo1MetodoSuma\bin\Debug\Ejemplo1MetodoSuma.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejemplo1MetodoSuma\Ejemplo1MetodoSuma\bin\Debug\Ejemplo1MetodoSuma.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejemplo1MetodoSuma\Ejemplo1MetodoSuma\obj\Debug\Ejemplo1MetodoSuma.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejemplo1MetodoSuma\Ejemplo1MetodoSuma\obj\Debug\Ejemplo1MetodoSuma.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejemplo1MetodoSuma\Ejemplo1MetodoSuma\obj\Debug\Ejemplo1MetodoSuma.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejemplo1MetodoSuma\Ejemplo1MetodoSuma\obj\Debug\Ejemplo1MetodoSuma.pdb

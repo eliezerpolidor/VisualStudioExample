@@ -1,0 +1,16 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\obj\Debug\net5.0\Video3.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\obj\Debug\net5.0\Video3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\obj\Debug\net5.0\Video3.AssemblyInfoInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\obj\Debug\net5.0\Video3.AssemblyInfo.cs
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\obj\Debug\net5.0\Video3.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\bin\Debug\net5.0\Video3.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\bin\Debug\net5.0\Video3.deps.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\bin\Debug\net5.0\Video3.runtimeconfig.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\bin\Debug\net5.0\Video3.runtimeconfig.dev.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\bin\Debug\net5.0\Video3.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\bin\Debug\net5.0\ref\Video3.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\bin\Debug\net5.0\Video3.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\obj\Debug\net5.0\Video3.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\obj\Debug\net5.0\ref\Video3.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\obj\Debug\net5.0\Video3.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Video3\Video3\obj\Debug\net5.0\Video3.genruntimeconfig.cache

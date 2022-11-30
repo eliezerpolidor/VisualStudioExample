@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstructor\EjemploConstructor\bin\Debug\EjemploConstructor.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstructor\EjemploConstructor\bin\Debug\EjemploConstructor.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstructor\EjemploConstructor\bin\Debug\EjemploConstructor.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstructor\EjemploConstructor\obj\Debug\EjemploConstructor.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstructor\EjemploConstructor\obj\Debug\EjemploConstructor.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstructor\EjemploConstructor\obj\Debug\EjemploConstructor.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploConstructor\EjemploConstructor\obj\Debug\EjemploConstructor.pdb

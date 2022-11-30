@@ -1,0 +1,16 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\bin\Debug\net5.0\EjemploArreglo.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\bin\Debug\net5.0\EjemploArreglo.deps.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\bin\Debug\net5.0\EjemploArreglo.runtimeconfig.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\bin\Debug\net5.0\EjemploArreglo.runtimeconfig.dev.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\bin\Debug\net5.0\EjemploArreglo.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\bin\Debug\net5.0\ref\EjemploArreglo.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\bin\Debug\net5.0\EjemploArreglo.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\obj\Debug\net5.0\EjemploArreglo.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\obj\Debug\net5.0\EjemploArreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\obj\Debug\net5.0\EjemploArreglo.AssemblyInfoInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\obj\Debug\net5.0\EjemploArreglo.AssemblyInfo.cs
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\obj\Debug\net5.0\EjemploArreglo.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\obj\Debug\net5.0\EjemploArreglo.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\obj\Debug\net5.0\ref\EjemploArreglo.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\obj\Debug\net5.0\EjemploArreglo.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploArreglo\EjemploArreglo\obj\Debug\net5.0\EjemploArreglo.genruntimeconfig.cache

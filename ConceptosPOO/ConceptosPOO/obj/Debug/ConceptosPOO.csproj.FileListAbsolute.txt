@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.pdb

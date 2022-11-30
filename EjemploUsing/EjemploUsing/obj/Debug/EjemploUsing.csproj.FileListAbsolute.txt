@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploUsing\EjemploUsing\bin\Debug\EjemploUsing.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploUsing\EjemploUsing\bin\Debug\EjemploUsing.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploUsing\EjemploUsing\bin\Debug\EjemploUsing.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploUsing\EjemploUsing\obj\Debug\EjemploUsing.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploUsing\EjemploUsing\obj\Debug\EjemploUsing.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploUsing\EjemploUsing\obj\Debug\EjemploUsing.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploUsing\EjemploUsing\obj\Debug\EjemploUsing.pdb

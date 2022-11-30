@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CursoBDModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Carreras">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="carrera" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Estudiantes" Relationship="Self.FK_Estudiantes_Carreras" FromRole="Carreras" ToRole="Estudiantes" />
+  </EntityType>
+  <EntityType Name="Estudiantes">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="idCarrera" Type="Int32" />
+    <NavigationProperty Name="Carreras" Relationship="Self.FK_Estudiantes_Carreras" FromRole="Estudiantes" ToRole="Carreras" />
+  </EntityType>
+  <Association Name="FK_Estudiantes_Carreras">
+    <End Role="Carreras" Type="Self.Carreras" Multiplicity="0..1" />
+    <End Role="Estudiantes" Type="Self.Estudiantes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Carreras">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Estudiantes">
+        <PropertyRef Name="idCarrera" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CursoBDEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Carreras" EntityType="Self.Carreras" />
+    <EntitySet Name="Estudiantes" EntityType="Self.Estudiantes" />
+    <AssociationSet Name="FK_Estudiantes_Carreras" Association="Self.FK_Estudiantes_Carreras">
+      <End Role="Carreras" EntitySet="Carreras" />
+      <End Role="Estudiantes" EntitySet="Estudiantes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

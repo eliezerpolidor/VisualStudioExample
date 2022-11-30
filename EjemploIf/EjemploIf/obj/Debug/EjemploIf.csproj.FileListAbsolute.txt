@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploIf\EjemploIf\bin\Debug\EjemploIf.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploIf\EjemploIf\bin\Debug\EjemploIf.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploIf\EjemploIf\bin\Debug\EjemploIf.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploIf\EjemploIf\obj\Debug\EjemploIf.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploIf\EjemploIf\obj\Debug\EjemploIf.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploIf\EjemploIf\obj\Debug\EjemploIf.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploIf\EjemploIf\obj\Debug\EjemploIf.pdb

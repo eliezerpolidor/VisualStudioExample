@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio3Arreglo\Ejercicio3Arreglo\bin\Debug\Ejercicio3Arreglo.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio3Arreglo\Ejercicio3Arreglo\bin\Debug\Ejercicio3Arreglo.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio3Arreglo\Ejercicio3Arreglo\bin\Debug\Ejercicio3Arreglo.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio3Arreglo\Ejercicio3Arreglo\obj\Debug\Ejercicio3Arreglo.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio3Arreglo\Ejercicio3Arreglo\obj\Debug\Ejercicio3Arreglo.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio3Arreglo\Ejercicio3Arreglo\obj\Debug\Ejercicio3Arreglo.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\Ejercicios\Ejercicio3Arreglo\Ejercicio3Arreglo\obj\Debug\Ejercicio3Arreglo.pdb

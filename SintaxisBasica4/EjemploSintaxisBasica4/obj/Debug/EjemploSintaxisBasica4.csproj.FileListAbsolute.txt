@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploSintaxisBasica4\EjemploSintaxisBasica4\bin\Debug\EjemploSintaxisBasica4.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploSintaxisBasica4\EjemploSintaxisBasica4\bin\Debug\EjemploSintaxisBasica4.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploSintaxisBasica4\EjemploSintaxisBasica4\bin\Debug\EjemploSintaxisBasica4.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploSintaxisBasica4\EjemploSintaxisBasica4\obj\Debug\EjemploSintaxisBasica4.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploSintaxisBasica4\EjemploSintaxisBasica4\obj\Debug\EjemploSintaxisBasica4.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploSintaxisBasica4\EjemploSintaxisBasica4\obj\Debug\EjemploSintaxisBasica4.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploSintaxisBasica4\EjemploSintaxisBasica4\obj\Debug\EjemploSintaxisBasica4.pdb

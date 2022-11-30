@@ -1,0 +1,16 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\obj\Debug\net5.0\EjemploLinqObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\obj\Debug\net5.0\EjemploLinqObjetos.AssemblyInfoInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\obj\Debug\net5.0\EjemploLinqObjetos.AssemblyInfo.cs
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\obj\Debug\net5.0\EjemploLinqObjetos.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\bin\Debug\net5.0\EjemploLinqObjetos.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\bin\Debug\net5.0\EjemploLinqObjetos.deps.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\bin\Debug\net5.0\EjemploLinqObjetos.runtimeconfig.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\bin\Debug\net5.0\EjemploLinqObjetos.runtimeconfig.dev.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\bin\Debug\net5.0\EjemploLinqObjetos.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\bin\Debug\net5.0\ref\EjemploLinqObjetos.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\bin\Debug\net5.0\EjemploLinqObjetos.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\obj\Debug\net5.0\EjemploLinqObjetos.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\obj\Debug\net5.0\ref\EjemploLinqObjetos.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\obj\Debug\net5.0\EjemploLinqObjetos.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\obj\Debug\net5.0\EjemploLinqObjetos.genruntimeconfig.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploLinqObjetos\EjemploLinqObjetos\obj\Debug\net5.0\EjemploLinqObjetos.csproj.AssemblyReference.cache

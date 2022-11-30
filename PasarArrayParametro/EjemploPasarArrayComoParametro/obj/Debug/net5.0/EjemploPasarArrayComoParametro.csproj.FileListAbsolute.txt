@@ -1,0 +1,16 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\bin\Debug\net5.0\EjemploPasarArrayComoParametro.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\bin\Debug\net5.0\EjemploPasarArrayComoParametro.deps.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\bin\Debug\net5.0\EjemploPasarArrayComoParametro.runtimeconfig.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\bin\Debug\net5.0\EjemploPasarArrayComoParametro.runtimeconfig.dev.json
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\bin\Debug\net5.0\EjemploPasarArrayComoParametro.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\bin\Debug\net5.0\ref\EjemploPasarArrayComoParametro.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\bin\Debug\net5.0\EjemploPasarArrayComoParametro.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\obj\Debug\net5.0\EjemploPasarArrayComoParametro.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\obj\Debug\net5.0\EjemploPasarArrayComoParametro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\obj\Debug\net5.0\EjemploPasarArrayComoParametro.AssemblyInfoInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\obj\Debug\net5.0\EjemploPasarArrayComoParametro.AssemblyInfo.cs
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\obj\Debug\net5.0\EjemploPasarArrayComoParametro.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\obj\Debug\net5.0\EjemploPasarArrayComoParametro.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\obj\Debug\net5.0\ref\EjemploPasarArrayComoParametro.dll
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\obj\Debug\net5.0\EjemploPasarArrayComoParametro.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploPasarArrayComoParametro\EjemploPasarArrayComoParametro\obj\Debug\net5.0\EjemploPasarArrayComoParametro.genruntimeconfig.cache

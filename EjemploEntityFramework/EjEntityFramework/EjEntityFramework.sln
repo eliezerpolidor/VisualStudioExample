@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjEntityFramework", "EjEntityFramework\EjEntityFramework.csproj", "{6613F1E8-8FA1-4CBA-A0F9-2AAA7B08EF2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PantallaEstudiantes", "PantallaEstudiantes\PantallaEstudiantes.csproj", "{BC70980F-3108-4D93-AFC1-4A61A0FF490E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6613F1E8-8FA1-4CBA-A0F9-2AAA7B08EF2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6613F1E8-8FA1-4CBA-A0F9-2AAA7B08EF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6613F1E8-8FA1-4CBA-A0F9-2AAA7B08EF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6613F1E8-8FA1-4CBA-A0F9-2AAA7B08EF2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC70980F-3108-4D93-AFC1-4A61A0FF490E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC70980F-3108-4D93-AFC1-4A61A0FF490E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC70980F-3108-4D93-AFC1-4A61A0FF490E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC70980F-3108-4D93-AFC1-4A61A0FF490E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF0646BC-9618-4B46-8BCF-56CD355A3F6F}
+	EndGlobalSection
+EndGlobal

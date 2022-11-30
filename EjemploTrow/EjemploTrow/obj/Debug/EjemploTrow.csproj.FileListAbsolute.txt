@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploTrow\EjemploTrow\bin\Debug\EjemploTrow.exe.config
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploTrow\EjemploTrow\bin\Debug\EjemploTrow.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploTrow\EjemploTrow\bin\Debug\EjemploTrow.pdb
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploTrow\EjemploTrow\obj\Debug\EjemploTrow.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploTrow\EjemploTrow\obj\Debug\EjemploTrow.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploTrow\EjemploTrow\obj\Debug\EjemploTrow.exe
+C:\Users\eliez\Desktop\EliezerP\VisualStudio\EjemploTrow\EjemploTrow\obj\Debug\EjemploTrow.pdb

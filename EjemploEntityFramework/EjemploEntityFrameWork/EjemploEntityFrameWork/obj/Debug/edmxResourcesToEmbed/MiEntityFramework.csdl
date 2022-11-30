@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EjemploEntityFrameworkModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="cSexo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Gente" Relationship="Self.FK_Gente_cSexo" FromRole="cSexo" ToRole="Gente" />
+  </EntityType>
+  <EntityType Name="Gente">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="edad" Type="Int32" />
+    <Property Name="idSexo" Type="Int32" />
+    <NavigationProperty Name="cSexo" Relationship="Self.FK_Gente_cSexo" FromRole="Gente" ToRole="cSexo" />
+  </EntityType>
+  <Association Name="FK_Gente_cSexo">
+    <End Role="cSexo" Type="Self.cSexo" Multiplicity="0..1" />
+    <End Role="Gente" Type="Self.Gente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="cSexo">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Gente">
+        <PropertyRef Name="idSexo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EjemploEntityFrameworkEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="cSexo" EntityType="Self.cSexo" />
+    <EntitySet Name="Gente" EntityType="Self.Gente" />
+    <AssociationSet Name="FK_Gente_cSexo" Association="Self.FK_Gente_cSexo">
+      <End Role="cSexo" EntitySet="cSexo" />
+      <End Role="Gente" EntitySet="Gente" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
